@@ -11,5 +11,8 @@ Concequence!!!
 Oh! I forgot to mention - I much rather drinnk Gatorade instead. It helps me play sports to my best and enables me to be at super sonic speed 24/7
 
 this is the end of the story. 
+<<<<<<< HEAD
 
 This is the beginning of the sequel to the story.
+=======
+>>>>>>> cfc566f0f0a8f76a2095bafe2b5280bac34a5790
